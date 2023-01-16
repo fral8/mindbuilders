@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Upgrade Your Toolbox- Top 3 Soldering Iron Recommendations for Electronic Makers
+title:  Upgrade Your Toolbox- Top 3 Soldering Iron to Buy Now
 categories:
   - setup-guide
   - maker
