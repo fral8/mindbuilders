@@ -2,6 +2,7 @@
 layout: single
 title:  Creating a Domestic Maker Desk- A Step-by-Step Guide
 categories:
+  - tutorial
   - maker
 share: true
 excerpt: "Create a dedicated electronics workspace with affordable furniture from IKEA and tools from Amazon."
