@@ -3,7 +3,7 @@ layout: single
 title:  How to schedule a post with Jekyll
 categories:
   - programming
-  - IT-guide
+  - Jekyll
 share: true
 excerpt: "Learn how to schedule posts on your Jekyll blog hosted on GitHub."
 header:

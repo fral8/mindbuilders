@@ -2,7 +2,9 @@
 layout: single
 title:  Online Resources for Maker Education and Inspiration
 categories:
+  - tutorial
   - maker
+  - start
 share: true
 excerpt: "Unlock endless maker inspiration and education with online resources."
 header:

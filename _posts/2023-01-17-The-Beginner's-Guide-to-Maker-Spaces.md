@@ -2,8 +2,9 @@
 layout: single
 title:  The Beginner's Guide to Maker Spaces
 categories:
+  - tutorial
   - maker
-  - IT-guide
+  - Start
 share: true
 excerpt: "Learn more about maker spaces with our beginner's guide and find a space near you to get started on your next DIY project."
 header:

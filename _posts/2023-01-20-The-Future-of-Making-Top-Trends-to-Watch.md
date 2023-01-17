@@ -4,6 +4,7 @@ title:  The Future of Making- Top Trends to Watch
 categories:
   - tutorial
   - maker
+  - analysis
 share: true
 excerpt: "Exploring the Future of Making: Top Trends to Watch."
 header:

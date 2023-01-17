@@ -2,10 +2,10 @@
 layout: single
 title:  Upgrade Your Toolbox- Top 3 Soldering Iron to Buy Now
 categories:
-  - setup-guide
+  - setup
   - maker
-  - electronic
   - best-tools
+  - Soldering Iron
 share: true
 excerpt: "This article covers the different types of soldering irons available for electronic makers. Upgrade your toolbox and elevate your electronic making skills with our expert soldering iron recommendations."
 header:

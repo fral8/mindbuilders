@@ -2,9 +2,8 @@
 layout: single
 title:  5 Must-Have Tools for Every Maker's Toolbox
 categories:
-  - setup-guide
+  - setup
   - maker
-  - electronic
   - best-tools
 share: true
 excerpt: "Are you looking to take your making skills to the next level? Look no further! Here's a list of 5 essential tools that every maker should have in their toolbox."

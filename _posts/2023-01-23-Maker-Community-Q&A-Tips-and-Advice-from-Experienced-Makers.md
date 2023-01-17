@@ -4,6 +4,7 @@ title:  Maker-Community-Q&A-Tips-and-Advice-from-Experienced-Makers
 categories:
   - tutorial
   - maker
+  - start
 share: true
 excerpt: "Exploring the Future of Making: Top Trends to Watch."
 header:
