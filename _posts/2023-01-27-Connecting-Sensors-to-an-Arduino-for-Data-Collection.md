@@ -12,7 +12,7 @@ header:
     overlay_image: /assets/images/mongodb.png
     overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 toc: true
-date: 2023-01-27 14:00:00
+
 
 ---
 ## Intro
