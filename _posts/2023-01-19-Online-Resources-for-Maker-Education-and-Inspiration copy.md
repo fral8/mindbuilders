@@ -12,7 +12,6 @@ header:
     overlay_image: /assets/images/makeredu.jpg
     overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 toc: true
-date: 2023-01-19 14:00:00
 
 ---
 ## Intro
