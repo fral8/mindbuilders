@@ -6,10 +6,10 @@ categories:
   - maker
   - start
 share: true
-excerpt: "Exploring the Future of Making: Top Trends to Watch."
+excerpt: "Top Advice for your maker path."
 header:
-    teaser: /assets/images/futuretrends.jpg
-    overlay_image: /assets/images/futuretrends.jpg
+    teaser: /assets/images/QAMaker.PNG
+    overlay_image: /assets/images/QAMaker.PNG
     overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 toc: true
 
