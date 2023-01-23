@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Maker-Community-Q&A-Tips-and-Advice-from-Experienced-Makers
+title:  Maker Community Q&A- Tips and Advice from Experienced Makers
 categories:
   - tutorial
   - maker
