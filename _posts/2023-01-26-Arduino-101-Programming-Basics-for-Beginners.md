@@ -22,7 +22,7 @@ In this guide, we'll cover the basics of programming with Arduino, including how
 
 ## Shopping-list
 Before we get started, you'll need to gather a few supplies:
-1. Arduino board (such as the Arduino Uno): $24.95 - https://amzn.to/3H7D4uz
+1. [Arduino board](https://amzn.to/3H7D4uz) (such as the Arduino Uno): $24.95 
 2. A USB cable to connect the Arduino to your computer
 3. A computer with the Arduino IDE (Integrated Development Environment) software installed. You can download the Arduino IDE for free from the Arduino website.
 nce you have all the necessary equipment, you're ready to start programming your Arduino.

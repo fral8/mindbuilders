@@ -19,13 +19,13 @@ toc: true
 Building your own robot can be a fun and rewarding experience. With the help of an Arduino microcontroller, you can create a robot that can move, sense its environment, and even make decisions. In this tutorial, we'll be building a simple robot that can move in different directions based on sensor input.
 
 ## Shopping-list
-Arduino Uno (https://amzn.to/3w8O0BL - around $25)
-2 DC motors (https://amzn.to/3ITBHAV - around $10 for a pair)
-L298N Dual H-Bridge Motor Driver (https://amzn.to/3Wbyhg1 - around $10)
-Breadboard and Jumper Wires (https://amzn.to/3iMBQeY - around $15)
-2 plastic wheels with diameter of 50mm (https://www.amazon.com/dp/B07M7ZJ6Z5/ - around $10 for a pair)
-2 ball casters (https://www.amazon.com/dp/B07MCVRZS5/ - around $7 for a pair)
-2 Sharp GP2Y0A02YK0F infrared proximity sensor (https://amzn.to/3w9dbnR)
+1. [Arduino Uno](https://amzn.to/3w8O0BL) -  around $25
+2. [2 DC motors](https://amzn.to/3ITBHAV) - around $10 for a pair
+3. [L298N Dual H-Bridge Motor Driver](https://amzn.to/3Wbyhg1) - around $10
+4. [Breadboard and Jumper Wires](https://amzn.to/3iMBQeY) - around $15
+5. [2 plastic wheels with diameter of 50mm](https://www.amazon.com/dp/B07M7ZJ6Z5/) - around $10 for a pair
+6. [2 ball casters](https://www.amazon.com/dp/B07MCVRZS5/) - around $7 for a pair
+7. [2 Sharp GP2Y0A02YK0F infrared proximity sensor](https://amzn.to/3w9dbnR)
 
 ## Step 1: Setting up the Hardware
 
