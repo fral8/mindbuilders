@@ -19,11 +19,11 @@ toc: true
 Creating a light-sensitive nightlight with Arduino is a fun and easy project that can be completed in just a few hours. This nightlight will automatically turn on when the ambient light in the room drops below a certain level, and turn off when the light level increases. It's a great way to save energy and create a more pleasant sleeping environment.
 
 ## Shopping-list
-1. Arduino board (such as the Arduino Uno): $24.95 - https://amzn.to/3H7D4uz
-2. LDR (light-dependent resistor): $4.99 - https://amzn.to/3iLqxnc
-3. Resistor (10k ohm resistor): $5.99 - https://amzn.to/3GJxnl7
-4. LED (light-emitting diode): $5.99 - https://amzn.to/3XDujxC
-5. Jumper wires & Breadboard: $15.99 - https://amzn.to/3GTlXLQ
+1. [Arduino board](https://amzn.to/3H7D4uz) (such as the Arduino Uno): $24.95
+2. [LDR (light-dependent resistor)](https://amzn.to/3iLqxnc): $4.99
+3. [Resistor (10k ohm resistor)](https://amzn.to/3GJxnl7): $5.99 
+4. [LED (light-emitting diode)](https://amzn.to/3XDujxC): $5.99 
+5. [Jumper wires & Breadboard](https://amzn.to/3GTlXLQ): $15.99
 
 ## Step 1: Wiring the Hardware
 
