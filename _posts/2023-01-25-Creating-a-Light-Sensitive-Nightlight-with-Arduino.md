@@ -8,8 +8,8 @@ categories:
 share: true
 excerpt: "Learn how to create a energy-saving light-sensitive nightlight with Arduino in a few easy steps"
 header:
-    teaser: /assets/images/nightlightsensor.jpg
-    overlay_image: /assets/images/nightlightsensor.jpg
+    teaser: /assets/images/nightlightsensor.png
+    overlay_image: /assets/images/nightlightsensor.png
     overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 toc: true
 
