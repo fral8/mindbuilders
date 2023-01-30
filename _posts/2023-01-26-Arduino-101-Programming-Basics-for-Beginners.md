@@ -8,8 +8,8 @@ categories:
 share: true
 excerpt: "Learn the basics of programming with Arduino and create interactive projects"
 header:
-    teaser: /assets/images/arduino101.jpg
-    overlay_image: /assets/images/arduino101.jpg
+    teaser: /assets/images/arduino101.png
+    overlay_image: /assets/images/arduino101.png
     overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 toc: true
 
