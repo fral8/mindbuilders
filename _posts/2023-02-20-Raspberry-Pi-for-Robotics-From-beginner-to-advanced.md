@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Raspberry Pi for Robotics: From beginner to advanced
+title:  Raspberry Pi for Robotics- From beginner to advanced
 categories:
   - setup
   - maker
